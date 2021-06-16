@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1031156259823",
+    "firebase_url": "https://apptaxi-9406b.firebaseio.com",
+    "project_id": "apptaxi-9406b",
+    "storage_bucket": "apptaxi-9406b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031156259823:android:c789d0bfc1c45b9c78741a",
+        "android_client_info": {
+          "package_name": "com.example.apptaxi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031156259823-k37l1hs18qpsal9e61c94goofsv5a27b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.apptaxi",
+            "certificate_hash": "5015945bdabd9cab26f2e9ad85a8d79fb53d58ff"
+          }
+        },
+        {
+          "client_id": "1031156259823-uubrkerbumg23qcgq13qv146cjmj5bj4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKgd-pejDdnx7mBXwl4NJpeueLRGBfNgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031156259823-uubrkerbumg23qcgq13qv146cjmj5bj4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
